@@ -44,7 +44,7 @@ This project analyzes Emirates' 2024 flight data to determine optimal aircraft-t
 - Profitability numbers appear synthetic
 - Limited aircraft variants and technical specifications
 
-## 6. Conclusion & Business Recommendations
+## Conclusion & Business Recommendations
 
 Wide-body aircraft significantly outperform narrow-bodies in Emirates' network. Better aircraft-to-route matching represents a major opportunity for profitability improvement.
 

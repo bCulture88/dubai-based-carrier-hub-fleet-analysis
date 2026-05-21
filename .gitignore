@@ -1,0 +1,6 @@
+*.html
+*.py
+.DS_Store
+archive-2/
+*.pdf
+Aiplane_BlueBook.csv
